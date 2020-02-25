@@ -1,6 +1,6 @@
 import Doctor from './Doctor'
 import { connect } from 'react-redux'
-import { fetchDoctors } from '..'
+
 
 
  const mapStateToProps = (state,ownProps) => {
@@ -15,3 +15,5 @@ import { fetchDoctors } from '..'
 export default connect(
   mapStateToProps
 )(Doctor)
+
+//hellon all
