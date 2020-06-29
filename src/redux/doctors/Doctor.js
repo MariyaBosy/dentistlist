@@ -1,6 +1,7 @@
 import React from "react";
 
 
+
 // const Doctor = props => {
 //   const {doctor_name, qualification, experience_years, id } = props;
 // const {city} =props.practise;
